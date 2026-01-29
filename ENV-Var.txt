@@ -1,0 +1,6 @@
+| Name            | Value                  |
+| --------------- | ---------------------- |
+| AWS_REGION      | ap-south-1             |
+| TABLE_NAME      | Contacts               |
+| PORT            | 3000                   |
+| FRONTEND_ORIGIN | https://<your-alb-dns> |
